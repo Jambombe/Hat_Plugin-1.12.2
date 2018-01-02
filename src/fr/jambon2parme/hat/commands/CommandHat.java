@@ -9,6 +9,9 @@ import org.bukkit.inventory.ItemStack;
 
 public class CommandHat implements CommandExecutor {
 
+	/**
+	 * @author Jambon2Parme
+	 */
 	@Override
 	public boolean onCommand(CommandSender sender, Command cmd, String msg, String[] args) {
 
