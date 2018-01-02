@@ -1,0 +1,8 @@
+name: Hat
+version: 1.0
+author: Jambon2Parme
+main: fr.jambon2parme.hat.Hat
+commands: 
+  hat:
+    description: Change your head
+    permission: hat.use
